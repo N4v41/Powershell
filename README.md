@@ -1,3 +1,3 @@
 # Powershell
 
-Galery with powershell scripts.
+Galery with powershell scripts, functions and more.
