@@ -1,12 +1,12 @@
-# Scripts para a criação de Maquinas na Azure
+# Scripts for creating Azure Machines
 
-Para a execução dos scripts é necessário instalar o modulo AzureRM:
+To execute the scripts the module AzureRM is needed:
 
 ```powershell
 Install-Module AzureRM
 ```
 
-Para conectar no Serviço da Azure  utilize o comando:
+To connect in Azure use the comandlet:
 
 ```powershell
 Connect-AzureRmAccount
