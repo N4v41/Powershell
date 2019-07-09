@@ -8,7 +8,7 @@ function Remove-QuarantineMessages {
         [Parameter(Mandatory=$true,
         ValueFromPipelineByPropertyName=$true,
         Position=2)][ValidateSet('Realease and Delete','Delete')]
-        $Action,#Difine the Action you want to do, only delete the messages or release them First
+        $Action,#Difine the Action you want to do, only delete messages or release them First and after delete them
         [Parameter(Mandatory=$false,
         ValueFromPipelineByPropertyName=$false,
         Position=3)]
